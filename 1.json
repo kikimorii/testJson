@@ -6,7 +6,7 @@
     "prefix": "",
     "suffix": ""
   },
-  "title": "Управление цифрового развития. Начальник подразделения, подчиненные проректору по учебной деятельности",
+  "title": "менеджер компетенции, старший преподаватель кафедры вычислительных систем и сетей Института №4",
   "location": "БМ 13-48",
   "photo": "https://pro.guap.ru/avatars/1/946.jpg",
   "telephones": [
@@ -30,7 +30,7 @@
   "emails": [
     {
       "type": "WORK",
-      "address": "ulia@guap.ru"
+      "address": "WORK@guap.ru"
     },
     {
       "type": "HOME",
@@ -41,12 +41,17 @@
       "address": "INTERNET@guap.ru"
     }
   ],
-  "url": "",
+  "url": "https://pro.guap.ru/professors",
   "socials": [
     {
       "type": "Telegram",
-      "userID": "ulia_trifonova",
-      "url": "https://telegram.me/@ulia_trifonova"
+      "userID": "aksenoff",
+      "url": "https://telegram.me/@aksenoff"
     },
+    {
+      "type": "Twitter",
+      "userID": "desloovere_j",
+      "url": "https://twitter.com/desloovere_j"
+    }
   ]
 }

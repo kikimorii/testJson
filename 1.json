@@ -14,31 +14,11 @@
       "type": "WORK",
       "number": "+7999999999"
     },
-    {
-      "type": "HOME",
-      "number": "1234121454"
-    },
-    {
-      "type": "CELL",
-      "number": "1234121212"
-    },
-    {
-      "type": "FAX",
-      "number": "1234121454"
-    }
   ],
   "emails": [
     {
       "type": "WORK",
       "address": "WORK@guap.ru"
-    },
-    {
-      "type": "HOME",
-      "address": "HOME@guap.ru"
-    },
-    {
-      "type": "INTERNET",
-      "address": "INTERNET@guap.ru"
     }
   ],
   "url": "https://pro.guap.ru/professors",

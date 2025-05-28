@@ -2,9 +2,7 @@
   "name": {
     "lastname": "Трифонова",
     "firstname": "Юлия",
-    "additional": "Викторовна",
-    "prefix": "",
-    "suffix": ""
+    "additional": "Викторовна"
   },
   "organization": "ГУАП",
   "title": "менеджер компетенции, старший преподаватель кафедры вычислительных систем и сетей Института №4",
@@ -14,19 +12,39 @@
     {
       "type": "WORK",
       "number": "+7999999999"
+    },
+    {
+      "type": "CELL",
+      "number": "+7888999888"
+    },
+    {
+      "type": "HOME",
+      "number": "+7888000333"
     }
   ],
   "emails": [
     {
       "type": "WORK",
       "address": "WORK@guap.ru"
+    },
+    {
+      "type": "HOME",
+      "address": "HOME@guap.ru"
     }
   ],
   "url": "https://pro.guap.ru/professors",
   "socials": [
     {
       "type": "Telegram",
-      "userID": "aksenoff",
+      "userID": "testTG",
+    },
+    {
+      "type": "VK",
+      "userID": "testVK",
+    },
+    {
+      "type": "OK",
+      "userID": "testOK",
     }
   ]
 }

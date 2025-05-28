@@ -23,8 +23,15 @@
   "socials": [
     {
       "type": "Telegram",
-      "userID": "aksenoff",
-      "url": "https://telegram.me/@aksenoff"
+      "userID": "aksenoff"
+    },
+    {
+      "type": "VK",
+      "userID": "aksenoff"
+    },
+    {
+      "type": "ok",
+      "userID": "aksenoff"
     }
   ]
 }

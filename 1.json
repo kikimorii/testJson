@@ -36,15 +36,15 @@
   "socials": [
     {
       "type": "Telegram",
-      "userID": "testTG",
+      "userID": "testTG"
     },
     {
       "type": "VK",
-      "userID": "testVK",
+      "userID": "testVK"
     },
     {
       "type": "OK",
-      "userID": "testOK",
+      "userID": "testOK"
     }
   ]
 }

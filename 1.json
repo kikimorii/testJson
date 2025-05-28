@@ -27,12 +27,6 @@
     {
       "type": "Telegram",
       "userID": "aksenoff",
-      "url": "https://telegram.me/@aksenoff"
-    },
-    {
-      "type": "Twitter",
-      "userID": "desloovere_j",
-      "url": "https://twitter.com/desloovere_j"
     }
   ]
 }

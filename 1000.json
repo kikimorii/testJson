@@ -45,6 +45,10 @@
     {
       "type": "OK",
       "userID": "testOK"
+    },
+    {
+      "type": "MAX",
+      "userID": "testMax"
     }
   ]
 }

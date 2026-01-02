@@ -5,50 +5,33 @@
     "additional": "Викторовна"
   },
   "organization": "ГУАП",
-  "title": "менеджер компетенции, старший преподаватель кафедры вычислительных систем и сетей Института №4",
+  "title": "Начальник Управления цифрового развития",
   "location": "БМ 13-48",
   "photo": "https://pro.guap.ru/avatars/1/946.jpg",
   "telephones": [
     {
       "type": "WORK",
-      "number": "+7999999999"
-    },
-    {
-      "type": "CELL",
-      "number": "+7888999888"
-    },
-    {
-      "type": "HOME",
-      "number": "+7888000333"
+      "number": "+79062420560"
     }
   ],
   "emails": [
     {
       "type": "WORK",
-      "address": "WORK@guap.ru"
-    },
-    {
-      "type": "HOME",
-      "address": "HOME@guap.ru"
+      "address": "ulia@guap.ru"
     }
   ],
-  "url": "https://pro.guap.ru/professors",
   "socials": [
     {
       "type": "Telegram",
-      "userID": "testTG"
+      "userID": "ulia_trifonova"
     },
     {
       "type": "VK",
-      "userID": "testVK"
-    },
-    {
-      "type": "OK",
-      "userID": "testOK"
+      "userID": "uliav.trifonova"
     },
     {
       "type": "MAX",
-      "userID": "testMax"
+      "userID": "f9LHodD0cOJkYGx_0qDx4Cu2BPlmaUKfWtP36ONsUXxrObvR_hwH1BI_X6Q"
     }
   ]
 }
